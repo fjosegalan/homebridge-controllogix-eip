@@ -1,0 +1,22 @@
+{
+  "name": "homebridge-controllogix-eip",
+  "version": "1.0.0",
+  "description": "Homebridge plugin to allow the system to interect with Allen Bradley ControlLogix processors using the protocol Ethernet/IP EIP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fjosegalan/homebridge-controllogix-eip.git"
+  },
+  "keywords": [
+    "Homebridge"
+  ],
+  "author": "Fran Galan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fjosegalan/homebridge-controllogix-eip/issues"
+  },
+  "homepage": "https://github.com/fjosegalan/homebridge-controllogix-eip#readme"
+}
